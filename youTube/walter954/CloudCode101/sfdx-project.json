@@ -8,6 +8,5 @@
   "name": "CloudCode101",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "66.0",
-  "defaultLwcLanguage": "javascript"
+  "sourceApiVersion": "66.0"
 }
