@@ -159,7 +159,9 @@ Each variable will have a specific data type. SF primitive data types represent 
 
 ## Boolean Type (Boolean)
 
-Boolean type is a data type that has only two possible values: true or false
+Boolean type is a data type that has only two possible values: 
+- true 
+- or false
 - commonly used in programming to make decisions with conditional statements
 
 ```apex
@@ -270,6 +272,3 @@ String|<b>contains(substring)</b><br>Returns true if the string calling the cont
 String|<b>removeEnd(substring)</b><br><b>removeStart<substring></b><br><br>The 'removeEnd' method removes the specified substring value from the end of a String, while the 'removeStart' method removes it from the beginning of a string|String helloText = 'Test Hello Coding Crew! Test';<br><br>System.debug('Start: ' + helloText.removeStart('Test'));<br><b>Output</b>: Start: Hello Coding Crew! Test<br><br>System.debug('End: ' + helloText.removeEnd('Test'));<br><b>Output</b>: End: Test Hello Coding Crew!
 
 <div align=center>Sample Table of Available Data Type Methods in sf Apex Code</div>
-
-
-
