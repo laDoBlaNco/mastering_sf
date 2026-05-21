@@ -1,6 +1,8 @@
 <!-- day0.md -->
 <!-- These are my notes for my Salesforce learning path -->
-# SALESFORCE
+# DAY 01 | SF LEARNING BOOTCAMP 2023
+
+## INTRO TO SF | DEVELOPER ORG SETUP & NAVIGATION
 
 ---
 
