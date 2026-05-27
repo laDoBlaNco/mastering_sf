@@ -71,9 +71,10 @@
           - **Report record type and color:** In reports, as noted below, the junction's primary master is treated as the dominant lookup (the Left Join in rdbms).
           - **Default related list ordering:** The junction appears more prominently under the primary master's page layout.
       - In relationship to my mental model I clarifed the following with Claude. Too much to type:
-      ![alt text](claude_junction_order_clarification.png)
-      - I can create custom reports based on these standard report types. In addition, I can create report types to customize which related objects are joined in the report. 
+      ![alt text](claude_junction_order_clarification1.png)
+      ![alt text](claude_junction_order_clarification2.png)
+      ![alt text](claude_junction_order_clarification3.png)
+      - Finally, I can create custom reports based on these standard report types. In addition, I can create report types to customize which related objects are joined in the report. 
     ![alt text](schema_many_to_many.png)
     [Create a Many-to-Many Object Relationship](https://help.salesforce.com/s/articleView?id=platform.relationships_manytomany.htm&type=5)
-
 
