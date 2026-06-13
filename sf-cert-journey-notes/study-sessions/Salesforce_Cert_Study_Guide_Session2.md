@@ -1,7 +1,8 @@
 # Salesforce Architect Study Guide — Session 2
-### Platform Fundamentals
 
-> **Cert Track:** Platform App Builder → Platform Developer I → Data Architect → Sharing & Visibility Architect → **Salesforce Certified Application Architect**
+> **Cert Track:** Platform Administrator I → Platform App Builder → Platform Developer I → Agentforce Specialist → JavaScript Developer I → Platform Developer II → Data Architect → Sharing & Visibility Architect → ***Salesforce Certified Application Architect***
+
+### Platform Fundamentals
 
 **Session Date:** June 2026
 **Topics:** Metadata Architecture · Multi-Tenancy · EAV Model · Standard & Custom Indexes · Selectivity & Cardinality · Skinny Tables · Data Skew · Data Cloud

@@ -1,5 +1,7 @@
 # Salesforce Certification Route — Study Notes · Session 1
 
+> **Cert Track:** Platform Administrator I → Platform App Builder → Platform Developer I → Agentforce Specialist → JavaScript Developer I → Platform Developer II → Data Architect → Sharing & Visibility Architect → ***Salesforce Certified Application Architect***
+
 **Superbadge Strategy · Cert Track · Market Intelligence · Cost Planning**
 
 > LaDoBlaNco · 24-Week Solopreneur Plan · Full Application Architect Route · June 2026
