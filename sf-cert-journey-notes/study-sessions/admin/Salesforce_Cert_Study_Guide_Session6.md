@@ -9,7 +9,8 @@
 - The four layers: Org, Object, Field, Record
 - Object permissions (CRUD + View All / Modify All) via Profiles & Permission Sets
 - Field-Level Security vs Page Layout (security vs cosmetics)
-- The record-access waterfall: OWD → Role Hierarchy → Sharing Rules → Manual → Apex
+- The record-access waterfall: OWD → Role Hierarchy → Sharing Rules → Manual → Team → Territory Hierarchy → Apex
+![alt text](sf_sharing_triangle.png)
 - Profiles vs Permission Sets vs Permission Set Groups (the modern shift)
 - Public Groups, implicit sharing, and the "most permissive vs most restrictive" rules
 - Quiz: 8 exam-style scenarios with full diagnostic rationale
