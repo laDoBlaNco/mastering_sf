@@ -6,8 +6,7 @@
 
 ---
 
-> **Cert Track:** Platform Administrator I → Nonprofit Cloud Consultant → Platform App Builder → Platform Developer I → Agentforce Specialist → JavaScript Developer I → Platform Developer II → Data Architect → Sharing & Visibility Architect → ***Salesforce Certified Application Architect***
-
+> **Cert Track:** Platform Administrator I → Nonprofit Cloud Consultant → Platform App Builder → Service Cloud Consultant → Platform Developer I → Agentforce Specialist → JavaScript Developer I → Platform Developer II → Data Architect → Sharing & Visibility Architect → ***Salesforce Certified Application Architect***
 
 ## What This Document Is
 
@@ -38,19 +37,25 @@ The full route targets the **Salesforce Application Architect** credential — t
 | 1 | PA1 | Certified Platform Administrator | Admin | Foundation — in progress |
 | 2 | NPC | Certified Nonprofit Cloud Consultant | Consultant | ★ Renaming to Agentforce Nonprofit Consultant — July 24, 2026 |
 | 3 | PAB | Certified Platform App Builder | Admin | Prereq for App Architect |
-| 4 | PD1 | Certified Platform Developer I | Developer | Prereq for App Architect |
-| 5 | AGS | Certified Agentforce Specialist | Specialist | Free through end of 2026 |
-| 6 | JD1 | Certified JavaScript Developer I | Developer | Moved before PD2 (LWC prep) |
-| 7 | PD2 | Certified Platform Developer II | Developer | Hardest exam on the route |
-| 8 | PDA | Certified Platform Data Architect | Architect | Prereq for App Architect |
-| 9 | SVA | Certified Platform Sharing & Visibility Architect | Architect | Prereq for App Architect |
-| 10 | APP | **Certified Application Architect** | Architect | ★ AUTO-AWARDED — no exam |
+| 4 | SCC | Certified Service Cloud Consultant | Consultant | Core moat — call center domain expertise |
+| 5 | PD1 | Certified Platform Developer I | Developer | Prereq for App Architect |
+| 6 | AGS | Certified Agentforce Specialist | Specialist | Free through end of 2026 |
+| 7 | JD1 | Certified JavaScript Developer I | Developer | Moved before PD2 (LWC prep) |
+| 8 | PD2 | Certified Platform Developer II | Developer | Hardest exam on the route |
+| 9 | PDA | Certified Platform Data Architect | Architect | Prereq for App Architect |
+| 10 | SVA | Certified Platform Sharing & Visibility Architect | Architect | Prereq for App Architect |
+| 11 | APP | **Certified Application Architect** | Architect | ★ AUTO-AWARDED — no exam |
 
-> **Why Application Architect specifically?** 3 of the 4 prerequisites (PAB, PD1, and one architect cert) were already on the original plan. Adding a second architect cert gives the fourth prereq, making the Application Architect essentially a freebie — no additional exam, no additional cost. At the architect level, technical architect roles are up 27% YoY while developer demand fell 12%. Architects represent just 1% of global supply. The route now includes 10 credentials total; NPC sits between PA1 and PAB as a niche specialization that opens the nonprofit freelance market while Admin knowledge is still fresh.
+> **Why Application Architect specifically?** 3 of the 4 prerequisites (PAB, PD1, and one architect cert) were already on the original plan. Adding a second architect cert gives the fourth prereq, making the Application Architect essentially a freebie — no additional exam, no additional cost. At the architect level, technical architect roles are up 27% YoY while developer demand fell 12%. Architects represent just 1% of global supply. The route now includes 11 credentials total; NPC opens the nonprofit freelance niche right after Admin, and SCC after PAB locks in the call center domain expertise that is the core consulting moat.
 
 ---
 
 ## 2. Cert Order & Strategic Logic
+
+### SCC inserted between PAB and PD1
+Service Cloud Consultant sits after App Builder and before PD1 for one clear strategic reason: it's the cert that formally validates your call center domain expertise. You've been working in contact centers — you already understand the operational reality of case management, queues, routing, escalations, and customer service workflows. PAB gives you the Salesforce automation fluency to articulate that knowledge in platform terms. SCC then certifies it. Doing this before PD1 means you enter the developer track already holding two consultant-level certs that make you immediately hirable for service-focused implementations.
+
+> **On the Service Cloud Specialist superbadge:** It's retired as of 2025. No direct replacement exists in the current catalog. The six superbadges mapped to SCC are the closest live catalog equivalents covering the actual SCC exam domains — Cases, digital engagement, flows, security, and analytics.
 
 ### NPC inserted between PA1 and PAB
 The Nonprofit Cloud Consultant cert sits immediately after Admin for two strategic reasons. First, the NPC exam builds directly on Admin knowledge — orgs, flows, permissions, data quality — so the material is still fresh and overlap is high. Second, it opens the nonprofit freelance niche as the earliest path to real-world Salesforce experience, which is the single biggest barrier to landing first clients. Nonprofits can't afford full-time admins and lean heavily on contractors, making them an accessible entry point before developer certs are earned.
@@ -174,6 +179,22 @@ The **Agentforce-era superbadges** (Advanced Flow for Agentforce, Apex for Agent
 
 ---
 
+### SCC — Certified Service Cloud Consultant
+*6 superbadges · Note: Service Cloud Specialist superbadge retired 2025 — current catalog mapped to SCC exam domains*
+
+> **Core moat cert.** This is where your call center background becomes a certified credential. Several badges overlap with other certs — complete once, counts everywhere.
+
+| Superbadge | Portfolio Signal |
+|------------|----------------|
+| Agentforce Service | Configure Service Agent for case handling and customer inquiries — most directly relevant Service Cloud badge in current catalog |
+| Screen Flow Distribution | Deploy flows across service interfaces — maps to digital engagement and CTI domain |
+| Flow Debugging | Troubleshoot flow issues from user reports — mirrors real service admin scenarios directly |
+| Flow Administration | Flow performance and enhancements — service process optimization proof |
+| User Access Troubleshooting | Access troubleshooting in service org context — security domain of SCC exam |
+| Report Administration for Agentforce Readiness | Service reporting and KPIs — analytics and insights domain |
+
+---
+
 ### PD1 — Certified Platform Developer I
 *4 superbadges · All current catalog verified*
 
@@ -287,6 +308,7 @@ The broader Salesforce market went through a real reset. Entry-level is crowded 
 | PA1 — Platform Administrator | $200 | $100 | |
 | NPC — Nonprofit Cloud Consultant | $200 | $100 | Renaming to Agentforce Nonprofit Consultant July 24, 2026 |
 | PAB — Platform App Builder | $200 | $100 | |
+| SCC — Service Cloud Consultant | $200 | $100 | Core call center domain cert |
 | PD1 — Platform Developer I | $200 | $100 | |
 | AGS — Agentforce Specialist | **FREE** | $100 | Free 1st attempt through end of 2026 |
 | JD1 — JavaScript Developer I | $200 | $100 | |
@@ -299,9 +321,9 @@ The broader Salesforce market went through a real reset. Entry-level is crowded 
 
 | Scenario | Total Cost |
 |----------|-----------|
-| Pass everything first try (Agentforce free) | **$1,800** |
-| Pass everything first try (standard pricing) | **$2,000** |
-| One retake on every exam | **$2,950** |
+| Pass everything first try (Agentforce free) | **$2,000** |
+| Pass everything first try (standard pricing) | **$2,200** |
+| One retake on every exam | **$3,200** |
 
 > 💡 **Cost reduction tip:** Salesforce runs periodic "Certification Days" — free official webinars that often come with $40–$100 discount vouchers. Monitor the Trailhead events calendar as you approach each exam. Pass Agentforce before end of 2026 while it's free.
 
@@ -316,6 +338,7 @@ One year to Application Architect is **aggressive but not impossible**. Assessme
 | PA1 — Administrator | 3–4 weeks remaining | Stay focused — boredom is the risk, not difficulty |
 | NPC — Nonprofit Cloud Consultant | 4–6 weeks | High overlap with Admin — ride the momentum immediately after PA1 |
 | PAB — App Builder | 4–6 weeks | Automation depth — go beyond basic flows |
+| SCC — Service Cloud Consultant | 4–5 weeks | Your strongest domain — call center background is the unfair advantage here |
 | PD1 — Developer I | 6–8 weeks | Apex learning curve — steepest transition point |
 | AGS — Agentforce Specialist | 3–4 weeks | Minimal — strongest natural overlap |
 | JD1 — JavaScript Dev I | 6–8 weeks | JS/LWC is new territory — no superbadge gate anymore |
@@ -323,9 +346,9 @@ One year to Application Architect is **aggressive but not impossible**. Assessme
 | PDA — Data Architect | 6–8 weeks | Scenario-based — superbadges are your prep tool here |
 | SVA — Sharing & Visibility | 6–8 weeks | High overlap with PDA content — study together |
 
-**Total estimate: 46–62 weeks at a healthy, sustainable pace.**
+**Total estimate: 50–67 weeks at a healthy, sustainable pace.**
 
-> ⚠️ **Realistic 12-month success definition:** One year to Application Architect certified is a stretch goal. Define success at 12 months as having cleared through **PD2 minimum** — that stack alone (PA1 + NPC + PAB + PD1 + AGS + JD1 + PD2) is a serious, hireable credential set with a niche specialization already attached. Data Architect and Sharing & Visibility can extend into months 14–18 without derailing anything career-meaningful.
+> ⚠️ **Realistic 12-month success definition:** One year to Application Architect certified is a stretch goal. Define success at 12 months as having cleared through **PD2 minimum** — that stack alone (PA1 + NPC + PAB + SCC + PD1 + AGS + JD1 + PD2) is a serious, hireable credential set with two consultant-level niche certs already attached. Data Architect and Sharing & Visibility can extend into months 15–18 without derailing anything career-meaningful.
 >
 > The self-awareness about the self-sabotage pattern (scope creep, boredom with foundational material) is the real variable. The first three certs set the pace for everything else.
 
@@ -349,8 +372,8 @@ Agentforce Service is the single most employer-visible badge in the catalog righ
 Three of four prerequisites were already on the plan. The fourth (SVA or PDA) costs one architect-tier exam ($400). The Application Architect itself costs nothing. There is no better ROI on a single cert decision in this route. NPC is a separate niche add — it doesn't affect the Application Architect prereq math but opens the nonprofit freelance market as an early income stream.
 
 ### 6. Total investment is manageable
-$1,800–$2,000 if you pass everything first try. Budget ~$2,950 for one retake per exam. Use Certification Days discounts. Pass Agentforce before end of 2026 while it's free. NPC adds $200 to the base investment but opens a freelance niche that can recoup that cost with a single client engagement.
+\$2,000–\$2,200 if you pass everything first try. Budget \$3,200 for one retake per exam. Use Certification Days discounts. Pass Agentforce before end of 2026 while it's free. NPC and SCC each add \$200 but open two freelance niches — a single client engagement in either vertical recoups both exam fees immediately.
 
 ---
 
-*All superbadges verified against live Trailhead catalog · June 2026 · Specialist-era badges retired Oct 2025 · NPC renaming to Agentforce Nonprofit Consultant July 24, 2026 · Prices current as of July 2025 pricing update*
+*All superbadges verified against live Trailhead catalog · June 2026 · Specialist-era badges retired Oct 2025 · Service Cloud Specialist superbadge retired 2025 · NPC renaming to Agentforce Nonprofit Consultant July 24, 2026 · Prices current as of July 2025 pricing update*

@@ -1,6 +1,6 @@
 # Session 7 — Data & Analytics Management
 
-> **Cert Track:** Platform Administrator I → Nonprofit Cloud Consultant → Platform App Builder → Platform Developer I → Agentforce Specialist → JavaScript Developer I → Platform Developer II → Data Architect → Sharing & Visibility Architect → ***Salesforce Certified Application Architect***
+> **Cert Track:** Platform Administrator I → Nonprofit Cloud Consultant → Platform App Builder → Service Cloud Consultant → Platform Developer I → Agentforce Specialist → JavaScript Developer I → Platform Developer II → Data Architect → Sharing & Visibility Architect → ***Salesforce Certified Application Architect***
 
 > **Salesforce Admin Cert — Study Guide Series**
 > Exam weight: **17%** — the single heaviest domain on the Platform Administrator exam.
